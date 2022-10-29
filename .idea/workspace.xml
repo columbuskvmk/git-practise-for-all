@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5247d932-1654-4ac3-8083-225142900ab2" name="Changes" comment="Created file1-Hanuman">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git-practise-for-all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File-AKK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File-Anusha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file-Murthy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/File-Imran" beforeDir="false" afterPath="$PROJECT_DIR$/src/File-Imran" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/File-Sravani" beforeDir="false" afterPath="$PROJECT_DIR$/src/File-Sravani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file-Ali" beforeDir="false" afterPath="$PROJECT_DIR$/src/file-Ali" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filemurthy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FirstTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GUK4rTgc0U4yNjKTJlnUWfOGpW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Git.Branch.Popup.ShowAllRemotes&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5247d932-1654-4ac3-8083-225142900ab2" name="Changes" comment="" />
+      <created>1666437551484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666437551484</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit Hanuman">
+      <created>1666438307951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666438307951</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit Hanuman">
+      <created>1666442241715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666442241715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit Hanuman">
+      <created>1666443200927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666443200927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2nd Commit by Hanuman">
+      <created>1666499197865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666499197865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update file by Hanuman">
+      <created>1666499870009</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666499870009</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Branch Created in Intellij">
+      <created>1666501465346</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666501465346</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test in First java">
+      <created>1666534295315</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666534295315</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test in First java-Test 1">
+      <created>1666540584200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666540584200</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Test in First java-Test 1-1">
+      <created>1666541131315</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666541131315</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test in First java-Test 1-1">
+      <created>1666692359956</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666692359956</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Demo for testing">
+      <created>1666693530161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666693530161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="26246fe2-1ac8-45f1-9e43-0a1c0ad971c8">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="26246fe2-1ac8-45f1-9e43-0a1c0ad971c8" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit Hanuman" />
+    <MESSAGE value="2nd Commit by Hanuman" />
+    <MESSAGE value="Update file by Hanuman" />
+    <MESSAGE value="Branch Created in Intellij" />
+    <MESSAGE value="Test in First java" />
+    <MESSAGE value="Test in First java-Test 1" />
+    <MESSAGE value="Test in First java-Test 1-1" />
+    <MESSAGE value="Demo for testing" />
+    <MESSAGE value="Created file1-Hanuman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created file1-Hanuman" />
+  </component>
+</project>
