@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5247d932-1654-4ac3-8083-225142900ab2" name="Changes" comment="Test in First java-Test 1-1">
-      <change afterPath="$PROJECT_DIR$/src/File-Hanuman" afterDir="false" />
+    <list default="true" id="5247d932-1654-4ac3-8083-225142900ab2" name="Changes" comment="Created file1-Hanuman">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git-practise-for-all.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File-AKK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File-Anusha" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file-Murthy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/File-Imran" beforeDir="false" afterPath="$PROJECT_DIR$/src/File-Imran" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/File-Sravani" beforeDir="false" afterPath="$PROJECT_DIR$/src/File-Sravani" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file-Ali" beforeDir="false" afterPath="$PROJECT_DIR$/src/file-Ali" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/filemurthy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FirstTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +35,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GUK4rTgc0U4yNjKTJlnUWfOGpW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -118,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666692359956</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Demo for testing">
+      <created>1666693530161</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666693530161</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -181,6 +199,8 @@
     <MESSAGE value="Test in First java" />
     <MESSAGE value="Test in First java-Test 1" />
     <MESSAGE value="Test in First java-Test 1-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test in First java-Test 1-1" />
+    <MESSAGE value="Demo for testing" />
+    <MESSAGE value="Created file1-Hanuman" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created file1-Hanuman" />
   </component>
 </project>
