@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5247d932-1654-4ac3-8083-225142900ab2" name="Changes" comment="Created file1-Hanuman">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git-practise-for-all.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File-AKK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/File-Anusha" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file-Murthy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/File-Imran" beforeDir="false" afterPath="$PROJECT_DIR$/src/File-Imran" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/File-Sravani" beforeDir="false" afterPath="$PROJECT_DIR$/src/File-Sravani" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file-Ali" beforeDir="false" afterPath="$PROJECT_DIR$/src/file-Ali" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filemurthy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/FirstTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5247d932-1654-4ac3-8083-225142900ab2" name="Changes" comment="this first commit-raghav" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +17,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Lahari,s file" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
