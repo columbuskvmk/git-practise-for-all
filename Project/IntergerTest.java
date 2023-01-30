@@ -1,4 +1,4 @@
-Class main {
+public Class main {
 public static void main(String[] args) {
 
         int A = 10;
@@ -10,5 +10,12 @@ public static void main(String[] args) {
         int sum1 = A + C;
         System.out.println(A + " + " + B + " = "  + sum);
         System.out.println(A + " + " + C + " = "  + sum1);
+        int C = 30;
+
+        // add two numbers
+        int sum = A + B;
+        int sum1 = A + B + C;
+        System.out.println(A + " + " + B + " = "  + sum);
+        System.out.println(A + " + " + B + " + " + C + " = "  + sum1);
         }
         }
